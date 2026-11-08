@@ -1,68 +1,102 @@
-# Realm of Legends: Shards of Elaria
+# ⚔️ Realm of Legends: Shards of Elaria
 
-**A Fantasy Exploration Game Developed in Unreal Engine 5.6**
+### 🏰 A Fantasy Exploration Adventure | Unreal Engine 5.7
 
-## Overview
+**Explore mystical worlds, collect magical crystals, and uncover the secrets of Elaria.**
+
+---
+
+## 🌍 About the Game
 
 This simple project focuses on exploration, environmental interaction, crystal collection, teleportation, and immersive audio across three interconnected fantasy environments.
 
-The game was developed using Unreal Engine 5.7 and its VR Template, with gameplay testing performed on PC due to the unavailability of a VR headset at the moment.
+Built using **Unreal Engine 5.7** and its VR Template, the game was developed and tested on Windows PC due to the unavailability of VR hardware.
 
-## Features
+## ✨ Game Features
 
-- **Three Explorable Environments:** Forest of Hope, Ancient Ruins, and a snowy mountain area.
-- **Crystal Collection System:** Collect three magical crystals in each environment.
-- **Teleportation:** Navigate environments using a camera-based teleportation mechanic.
-- **Interactive Dialogue:** Meet Aelwen and learn about the adventure.
-- **Dynamic Lighting:** Toggle between normal and dark environmental lighting.
-- **Immersive Audio:** Fantasy background music, environmental ambience, and spatial crystal sounds.
-- **User Interface:** Objective tracking, crystal counter, and pause menu.
-- **Level Transitions:** Travel between interconnected environments through portals.
+- 🌲 **Three Unique Environments:** Explore the Forest of Hope, Ancient Ruins, and a snowy mountain environment.
+- 💎 **Crystal Collection:** Find and collect three magical crystals in each environment.
+- 🌀 **Teleportation System:** Travel through the world using a camera-based teleportation mechanic.
+- 🧝 **Interactive Dialogue:** Meet Aelwen, who introduces players to their adventure.
+- 🌙 **Dynamic Lighting:** Switch between normal and dark environmental lighting.
+- 🎵 **Immersive Audio:** Fantasy background music, environmental ambience, and spatial crystal sounds.
+- 📊 **Interactive HUD:** Track objectives and collected crystals.
+- 🚪 **Level Transitions:** Travel between environments through interactive portals.
+- ⏸️ **Pause Menu:** Pause gameplay through a simple interface.
 
-## Controls
+## 🎮 Game Controls
 
-| Key | Action |
+| ⌨️ Key | 🎯 Action |
 |---|---|
-| W, A, S, D | Movement |
-| Mouse | Camera movement |
-| E | Collect crystals |
+| W, A, S, D | Character Movement |
+| Mouse | Camera Control |
+| E | Collect Crystals |
 | T | Teleport |
-| N | Toggle dark mode |
-| P | Pause menu |
+| N | Toggle Dark Mode |
+| ESC | Pause Menu |
 
-## Development
+## 🗺️ Explore the World of Elaria
 
-**Engine:** Unreal Engine 5.6  
-**Development Platform:** Windows PC  
-**Project Type:** University Final Project  
-**Development:** Solo Developer
+### 🌲 Forest of Hope
 
-The project involved implementing gameplay systems using Unreal Engine Blueprints, designing fantasy environments, integrating audio, creating UI elements, and connecting multiple levels.
+Begin your adventure in an enchanted forest, meet Aelwen, and collect magical crystals while exploring a peaceful fantasy environment.
 
-During development, I also worked on troubleshooting lighting issues, improving gameplay functionality, and packaging the project as a standalone Windows application.
+### 🏛️ Ancient Ruins
 
-## Testing and Limitations
+Travel through an ancient environment filled with mysterious architecture and continue your crystal collection journey.
 
-The project was developed using Unreal Engine's VR Template. However, due to limited access to VR hardware, gameplay functionality was tested on Windows PC rather than through a VR headset.
+### ❄️ Snowy Mountains
 
-The implemented systems were tested in the Unreal Editor and in the packaged Windows build. Full VR hardware compatibility remains an area for future testing.
+Explore a frozen landscape with a different atmosphere and continue the adventure through Elaria.
 
-## Gameplay Presentation
+## 🛠️ Development & Technologies
 
-Watch the final project presentation on YouTube:
+| Technology | Description |
+|---|---|
+| 🎮 Unreal Engine 5.7 | Game Engine |
+| 🔷 Blueprints | Gameplay Programming |
+| 🖥️ Windows | Development and Testing Platform |
+| 🥽 VR Template | Initial Project Framework |
+| 🎨 Unreal Engine Editor | Level Design and Environment Creation |
 
-**[Realm of Legends: Shards of Elaria — Final Presentation](https://youtu.be/C0Qy_MgXj3M)**
+### 💻 Development Highlights
 
-## Future Improvements
+Throughout this project, I worked on:
 
-- VR headset testing and controller integration.
-- Additional character interactions and quests.
-- Expanded environments and exploration objectives.
-- Improved visual effects and environmental optimization.
-- Additional gameplay mechanics.
+- Implementing interactive gameplay systems using Blueprints.
+- Creating and connecting three different environments.
+- Developing a crystal collection and objective tracking system.
+- Implementing teleportation and environmental lighting controls.
+- Integrating music, ambient audio, and spatial sound effects.
+- Designing a functional user interface.
+- Troubleshooting lighting and level transition issues.
+- Packaging the game into a standalone Windows application.
 
-## Developer
+## 🧪 Testing & Limitations
 
-**TechByDerek**
+The project was developed using Unreal Engine's **VR Template**, with the original goal of exploring virtual reality game development concepts.
 
-Developed as an academic project to explore Unreal Engine, interactive environments, and game development fundamentals.
+However, due to the unavailability of a VR headset, gameplay testing was performed on **Windows PC** rather than through VR hardware.
+
+The implemented gameplay systems were tested in the Unreal Editor and in the packaged Windows version.
+
+**Future VR hardware testing is necessary to confirm full headset and controller compatibility.**
+
+## 🚀 Future Improvements
+
+- 🥽 VR headset and motion controller testing.
+- ⚔️ Additional gameplay mechanics.
+- 🧙 More character interactions and quests.
+- 🌎 Expanded fantasy environments.
+- ✨ Improved visual effects and lighting.
+- ⚡ Further performance optimization.
+
+## 👨‍💻 Developer
+
+**Derek Rolon**
+
+---
+
+### ⭐ Thanks for checking out Realm of Legends: Shards of Elaria!
+
+*An adventure through the magical world of Elaria.*
