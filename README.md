@@ -91,12 +91,10 @@ The implemented gameplay systems were tested in the Unreal Editor and in the pac
 - ✨ Improved visual effects and lighting.
 - ⚡ Further performance optimization.
 
-## 👨‍💻 Developer
-
-**Derek Rolon**
+## 📝 Note
+This is a project built for learning purposes as part of a C++ Game Development curriculum.
 
 ---
+## 👨‍💻 Developer
 
-### ⭐ Thanks for checking out Realm of Legends: Shards of Elaria!
-
-*An adventure through the magical world of Elaria.*
+*Built by Derek Rolon — [Devko Studios LLC]*
