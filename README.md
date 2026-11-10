@@ -92,7 +92,7 @@ The implemented gameplay systems were tested in the Unreal Editor and in the pac
 - ⚡ Further performance optimization.
 
 ## 📝 Note
-This is a project built for learning purposes as part of a C++ Game Development curriculum.
+This is a project built for learning purposes as part of a C++ & Blueprints Game Development course.
 
 ---
 ## 👨‍💻 Developer
